@@ -1,0 +1,44 @@
+MS2930 schematic
+
+
+This is work in progress documentation and schematic for this nanao board.
+
+For some reason, there is no existing 'nanao official' schematic for it.
+
+
+There is no real documentation yet. I added some oscilloscopes from
+strategic points.
+
+A good documentation should be 
+
+-setup guide (all the pots and in witch order)
+
+-trouble shooting guide
+
+-description of every sub-systems: this can easily be added  now,
+  so if you see something important to say or wrong, tell it.
+  
+
+
+There is probably some errors remaining , particurlarly ceramic caps values.
+If you have any dead board, fell free to remove and measure some of them !
+
+
+
+
+A good thing to do with this drawing is to make it printable on A4 pages.
+
+
+
+If you are earning money with repairing this chassis, don't forget me.
+https://buymeacoffee.com/franck78
+This was really a time consuming job.
+
+
+Versions 
+
+I put it here as RC3 with hope to get new fixes.
+I'm currently with v5.1
+
+When everything is ok, I will add the 'official' pdf with V1.0
+Consider any other version as obsolete
